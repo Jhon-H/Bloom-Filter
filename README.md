@@ -1,6 +1,6 @@
 # Bloom Filter
 
-Lee el [artículo relacionado](https://medium.com/@jhon.jairo.hernandez)
+Lee el [artículo relacionado](https://medium.com/@jhonjhernandezc1104/algoritmos-en-frontend-bloom-filter-55551051b93b)
 
 Estructura probabilística que permite, de forma muy eficiente, agregar elementos y consultar si un elemento pertenece al conjunto.
 
